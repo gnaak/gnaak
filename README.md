@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @gnaak
-- 👀 I’m interested in adasd
-- 🌱 I’m currently learning asdsada
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브 아이디)](https://github.com/anuraghazra/github-readme-stats)
