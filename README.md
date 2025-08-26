@@ -1,6 +1,6 @@
 <div align="center">
  
- <a href="https://velog.io/@gnaak"><img src="https://img.shields.io/badge/gnaak-20C997?style=flat-square&logo=velog&logoColor=white"></a>
+ <a href="https://gnaaak.tistory.com/"><img src="https://img.shields.io/badge/gnaak-20C997?style=flat-square&logo=velog&logoColor=white"></a>
 <a href="https://gnaak.vercel.app"><img src="https://img.shields.io/badge/포트폴리오-000000?style=flat-square&logo=vercel&logoColor=white"></a>
 <br>
 <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=react&logoColor=white">  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=Typescript&logoColor=white">
